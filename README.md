@@ -1,2 +1,2 @@
 # prework-study-guide
-My website for Pre-Work Module 3.
+Bootcamp study guide for students.
